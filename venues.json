@@ -1,0 +1,153 @@
+{
+ "environment": "prod",
+ "issued_at": "2026-11-25T15:46:57Z",
+ "listings": {
+  "4you-fitness/badminton": {
+   "on": true
+  },
+  "bosporka-bohumin/badminton": {
+   "on": true
+  },
+  "fidor-opava/badminton": {
+   "on": true
+  },
+  "hala-suchdol/badminton": {
+   "on": true
+  },
+  "hala-suchdol/tennis": {
+   "on": true
+  },
+  "hamr-branik/badminton": {
+   "on": true
+  },
+  "hamr-branik/tennis": {
+   "on": true
+  },
+  "hamr-zabehlice/squash": {
+   "on": true
+  },
+  "hamr-zabehlice/tennis": {
+   "on": true
+  },
+  "hector/badminton": {
+   "on": true
+  },
+  "hector/padel": {
+   "on": true
+  },
+  "hector/squash": {
+   "on": true
+  },
+  "hector/tennis": {
+   "on": true
+  },
+  "hotel-tennis-club-prostejov/badminton": {
+   "on": true
+  },
+  "hotel-tennis-club-prostejov/squash": {
+   "on": true
+  },
+  "hotel-tennis-club-prostejov/tennis": {
+   "on": true
+  },
+  "infinit-step/badminton": {
+   "on": true
+  },
+  "jeremi/badminton": {
+   "on": true
+  },
+  "jeremi/pickleball": {
+   "on": true
+  },
+  "jeremi/squash": {
+   "on": true
+  },
+  "lokomotiva-beroun-tenisova-hala/tennis": {
+   "on": true
+  },
+  "lokomotiva-beroun/badminton": {
+   "on": true
+  },
+  "lokomotiva-beroun/squash": {
+   "on": true
+  },
+  "motorlet-radlice/badminton": {
+   "on": true
+  },
+  "royal-fitness-kladno/badminton": {
+   "on": true
+  },
+  "s-centrum-decin/badminton": {
+   "on": true
+  },
+  "sc-fajne/badminton": {
+   "on": true
+  },
+  "sc-semily/badminton": {
+   "on": true
+  },
+  "sc-semily/squash": {
+   "on": true
+  },
+  "slavia-padel/padel": {
+   "on": true
+  },
+  "sport-eden-beroun/badminton": {
+   "on": true
+  },
+  "sport-park-liberec/badminton": {
+   "on": true
+  },
+  "sportcentrum-ivanovice/badminton": {
+   "on": true
+  },
+  "sportcentrum-ymca-praha/badminton": {
+   "on": true
+  },
+  "sportovni-hala-bohumin/badminton": {
+   "on": true
+  },
+  "sportovni-hala-bohumin/tennis": {
+   "on": true
+  },
+  "sportpark-hit/badminton": {
+   "on": true
+  },
+  "squash-arena-novodvorska/badminton": {
+   "on": true
+  },
+  "squash-arena-novodvorska/squash": {
+   "on": true
+  },
+  "squash-cimice/squash": {
+   "on": true
+  },
+  "squash-hastal/squash": {
+   "on": true
+  },
+  "tenba-litvinov/badminton": {
+   "on": true
+  },
+  "tresnovka/badminton": {
+   "on": true
+  },
+  "tresnovka/squash": {
+   "on": true
+  },
+  "trojhali-karolina/badminton": {
+   "on": true
+  },
+  "vektor-pardubice/badminton": {
+   "on": true
+  },
+  "zavadilka-beroun/badminton": {
+   "on": true
+  },
+  "zavadilka-beroun/tennis": {
+   "on": true
+  }
+ },
+ "schema": 1,
+ "stop_all": false,
+ "version": 1795621617
+}
